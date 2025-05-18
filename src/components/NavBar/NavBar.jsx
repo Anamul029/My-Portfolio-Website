@@ -9,7 +9,7 @@ const NavBar = () => {
         {/* <a href="#main">Buy Tickets</a> */}
     </>
     return (
-        <div className="fixed container mx-5/6  z-20 ">
+        <div className="fixed w-full mx-5/6  z-20 ">
             <div className="navbar font-serif w-full  bg-blue-50">
                 <div className="navbar-start">
                     <div className="dropdown">

@@ -12,7 +12,7 @@ function App() {
   return (
     <>
 
-      <div className='bg-[#000319] container mx-auto'>
+      <div className='bg-[#000319]  mx-auto'>
         <NavBar></NavBar>
         <Banner></Banner>
         <About></About>

@@ -1,7 +1,8 @@
 
 const SkillCard = () => {
     return (
-        <div id="skill" className="container">
+        <div
+         id="skill" className="container">
             <h2 className="text-4xl font-bold ml-10 text-white">SKILLS</h2>
 
             <div className="grid gap-8 p-10 container mx-auto grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
